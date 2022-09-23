@@ -1,5 +1,5 @@
 # Jogos em Python
-Códigos desenvolvidos a partir de aulas dos cursos de Python na Alura
+Códigos desenvolvidos a partir de aulas dos cursos de Python na Alura, parte da formação em [Python e orientação a objetos](https://cursos.alura.com.br/formacao-Python-linguagem)
 
 **Curso 1 — [Python: começando com a linguagem](https://cursos.alura.com.br/course/python-introducao-a-linguagem)**
 
