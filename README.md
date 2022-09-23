@@ -11,4 +11,4 @@ Status: Concluído
 
 Jogo: Forca
 
-Status: Em andamento
+Status: Concluído
